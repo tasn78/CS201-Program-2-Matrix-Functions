@@ -1,0 +1,3 @@
+﻿  Matrix.cpp
+C:\Users\Owner\Documents\GitHub\lab04-tasn78\CS201 Program 2 Matrix Functions\CS201 Program 2 Matrix Functions\Matrix.cpp(124,25): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  CS201 Program 2 Matrix Functions.vcxproj -> C:\Users\Owner\Documents\GitHub\lab04-tasn78\CS201 Program 2 Matrix Functions\x64\Debug\CS201 Program 2 Matrix Functions.exe
